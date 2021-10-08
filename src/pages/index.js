@@ -4,7 +4,16 @@ import Layout from "../components/layout"
 const IndexPage = () => {
     return (
 	<Layout pageTitle="Black Death Digital Archive">
-	    <p>BDDA is a multidisciplinary portal for researching the Second Plague Pandemic (outbreaks of plague that started with the Black Death and their recurrences across Afro-Eurasia from the 13th to the 19th centuries). The enormous body of evidence to reconstruct the pandemic has so far not been systematically compiled. This is the first scholarly initiative that aims to assemble all extant evidence (published and unpublished) on the pandemic and serve as a gateway for future research. This project collects different types of data—both documentary (archival, narrative) and material (bio-archeological, palaeogenomic) evidence—and assesses the evidence with the expertise of scholars working on different aspects of plague. As an open-access site, the BDDA portal will serve scholars, educators, students, and the wider public.</p>
+	    <p>BDDA is a multidisciplinary project to integrate historical accounts of the Black Death with modern bio-archeological and paleogenomic research.</p>
+
+	    <h2>Grounded in the Semantic Web</h2>
+	    <p>We are developing an ontology that draws on existing representations of knowledge in science and the humanities so that we can build a knowledge base of linked open data that integrates scientific data and historical evidence.</p>
+
+	    <h2>Fundamentally Interdisciplinary</h2>
+	    <p>We are working with the interdisciplinay community of historians, archeologists, and paleogenetic scientists to identify and compile research data into an interoperable, linked-data format.</p>
+
+	    <h2>Community Oriented</h2>
+	    <p>We intend to develop a repository of linked data that is freely available for scholars and students of all disciplines to use in their own research.</p>
 	</Layout>
 )}
 
