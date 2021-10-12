@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-# Core Team
+# Core Team Edited
  
 - Nükhet Varlık
 - Ece Turnator
