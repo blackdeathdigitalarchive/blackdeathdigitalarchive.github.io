@@ -11,7 +11,7 @@ permalink: /team/
 - Monica Green
 - Joris Roosen
 - Sharon DeWitte?
-- Tunahan Durmaz?
+- Tunahan Durmaz
  
 # BDDA Assistant
  
