@@ -5,3 +5,14 @@
 
 #header nav { max-width: 650px; margin: 0 auto; padding: 0 10px; background: url(../images/nav-bg.gif) }
 
+footer { background: rgb(128,128,128); }
+
+#logos {
+    width: 355px;
+    list-style: none;
+    list-style-image: none; 
+}
+
+#logos li { padding: 5px;
+	    border-bottom: 1px solid black;
+}

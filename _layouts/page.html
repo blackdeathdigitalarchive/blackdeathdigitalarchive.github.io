@@ -45,7 +45,13 @@
         {{ content }}
 
       </section>
-
     </div>
+    <footer>
+      <ul id="logos">
+      {% for logo in site.data.logos %}
+      <li><img src="{{ site.url }}/assets/images/{{ logo.href }}"/></li>
+      {% endfor %}
+      </ul>
+    </footer>
   </body>
 </html>

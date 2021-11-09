@@ -1,0 +1,15 @@
+- org: "UoSC"
+  href: "UoSC_logo1.png"
+  title: "University of South Carolina"
+
+- org: "SSHRC"
+  href: "sshrc.png"
+  title: "SSHRC"
+  
+- org: "McMaster"
+  href: "mcmaster.png"
+  title: "McMaster Unversity"
+
+- org: "Villanova"
+  href: "villanova.png"
+  title: "Vilanova University"
