@@ -18,3 +18,5 @@ The Radcliffe seminar illuminated the centrality of data modeling and knowledge 
 * it will enable researchers in various fields to discover connections among their data and supporting data from other disciplines
 
 The BDDA has concentrated on the CIDOC CRM as a primary source for its ontology, and it has produced an exploratory encoding of data from the Ottoman archives and from Biraben's magisterial and controversial work, *les hommes et la peste en France et dans les pays méditerranéens*. 
+
+You can find this work-in progress, as well as other knowledge graphs and tutorials, in the BDDA github repository at <https://github.com/blackdeathdigitalarchive/knowledge-graphs>.
