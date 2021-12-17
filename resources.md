@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Resources
-permalink: /resources/
+title: BDDA Resources
 ---
 The two-day Radcliffe seminar ("Biraben 2.0: A Black Death Digital Archive") established the framework for the BDDA.  Central to the seminar's concerns was the importance of data reclamation:
 
