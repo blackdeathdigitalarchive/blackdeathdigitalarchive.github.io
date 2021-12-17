@@ -3,9 +3,20 @@
 
 @import "{{ site.theme }}";
 
-#header nav { max-width: 650px; margin: 0 auto; padding: 0 10px; background: url(../images/nav-bg.gif) }
+body { background: linear-gradient(#2a2a29, #36454f); }
 
-footer { background: rgb(128,128,128); }
+#header nav { background: none; }
+
+
+#header nav ul li a {  border: 1px solid #470013;
+                       background: linear-gradient(#b1002f, #6a001c);
+                       border-radius: 2px;
+                       box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.3), 0px 3px 7px rgba(0, 0, 0, 0.7);
+                       background-color: #6a001c;
+                       margin-right: 15px; }
+
+// no longer used
+#footer { max-width: 650px; margin: 0 auto; padding: 0 10px; background: url(../images/nav-bg.gif) }
 
 #logos {
     width: 355px;
