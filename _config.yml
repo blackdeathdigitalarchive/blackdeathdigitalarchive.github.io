@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 short_name: "BDDA"
-url: 'https://mydomain.com'
+url: 'https://blackdeathdigitalarchive.github.io"
 baseurl: ''
 title: 'The Black Death Digital Archive'
 description: 'Creating a knowledge base for researchers studying the Second Plague'
